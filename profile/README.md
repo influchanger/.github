@@ -6,3 +6,5 @@
 🌐 [influchanger.com](https://influchanger.com) · ✍️ [Sign the manifesto](https://influchanger.com/manifesto/) · 🟢 [status.influchanger.com](https://status.influchanger.com)
 
 Most of the work lives in private repositories. The book is in progress, in French first, then in English.
+
+Written by [Jacques Couvreur](https://www.linkedin.com/in/jacquescouvreur/).
